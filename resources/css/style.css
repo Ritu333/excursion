@@ -16,6 +16,7 @@ body{background-color: black;}
   text-align: center;
   font-family: verdana;
   font-weight: normal;
+  align-content: center;
 }
 
 .third-class
@@ -34,15 +35,6 @@ body{background-color: black;}
   font-size: 42px;
   color: white;
   text-align: center;
-}
-
-.fifth-class
-{
-  color:aquamarine;
-  font-size: 16px;
-  text-align: center;
-  font-family: verdana;
-  font-weight: normal;
 }
 
 .random-class
@@ -75,4 +67,10 @@ body{background-color: black;}
   text-align: right;
   color: gray;
   font-family: verdana;
+}
+
+.video-class
+{
+  text-align: center:
+
 }
